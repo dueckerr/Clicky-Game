@@ -12,4 +12,4 @@
 
 // export default LogoCard;
 
-export { default } from "./LogoCard";
+export { default } from "./logoCard";
